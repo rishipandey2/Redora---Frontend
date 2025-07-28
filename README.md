@@ -2,6 +2,8 @@
 
 Redora is a stunning, minimal, and modern landing page built for a digital book reading platform. Inspired by Vercel’s timeless aesthetic, it combines elegant design, classic typography, and subtle animations to deliver a visually captivating and accessible user experience.
 
+## Live Demo - https://rishipandey2.github.io/Redora---Frontend/
+
 ## 🌟 Features
 
 
